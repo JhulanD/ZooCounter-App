@@ -1,10 +1,28 @@
 # Zoo Counter App
 
-A beginner-friendly JavaScript web app built as part of the Scrimba interactive course. This application tracks the number of visitors entering the zoo by incrementing a count and allows saving previous counts to view history.
+A beginner-friendly JavaScript web app built as part of the Scrimba interactive course.
+This application tracks the number of visitors entering the zoo by incrementing a count and allows saving previous counts to view history.
 
-## Demo
+## Live Demo
 
-![Zoo Counter App Screenshot](https://images.unsplash.com/photo-1534567153574-2b12153a87f0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<table>
+  <tr>
+    <td>
+      <a href="https://zoo-counter-jd-first-javascript-app.netlify.app/">
+        <img src="https://github.com/JhulanD/JhulanD/raw/32aab582433b6e5cb5433edec9c227dd9fae76b8/public/ZooCounterApp.png" width="500" alt="Zoo Counter App Screenshot" />
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 20px;">
+      <a href="https://zoo-counter-jd-first-javascript-app.netlify.app/">Zoo Counter App Live</a><br>
+      <small>A beginner-friendly JavaScript app to count zoo visitors.</small>
+    </td>
+  </tr>
+</table>
+
+
+
+[Zoo Counter App Live](https://zoo-counter-jd-first-javascript-app.netlify.app/)  
+_A beginner-friendly JavaScript app to count zoo visitors._
 
 ## Features
 
@@ -31,6 +49,7 @@ A beginner-friendly JavaScript web app built as part of the Scrimba interactive 
 2. Open `index.html` in a modern web browser
 3. Click **INCREMENT** to add visitors
 4. Click **SAVE** to log and display visitor counts
+
 
 ## License
 
